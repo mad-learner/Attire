@@ -2,4 +2,6 @@
 Blockchain based Supply Chain Solution for Fasion Industry
 
 
-# work flow
+# Workflow chart
+
+![](flow.png)
