@@ -1,7 +1,9 @@
 # Attire
 Blockchain based Supply Chain Solution for Fasion Industry
 
+# component workflow
+![](supply-chain.bpmn.png)
 
-# Workflow chart
+# baseline Workflow chart
 
 ![](flow.png)
